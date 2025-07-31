@@ -1,0 +1,23 @@
+{
+  "usuario": [
+    {
+      "id": "43d9",
+      "numero": "023",
+      "logradouro": "carapicuiba",
+      "tipo": "Intermunicipal",
+      "extensaoida": "14,7 km",
+      "extensaovolta": "15,2 km",
+      "status": "Parada"
+    },
+    {
+      "id": "1373",
+      "numero": "082",
+      "logradouro": "PIRAPORA (jd.bom jesus) / OSASCO (vila-yara)",
+      "tipo": "Intermunicipal",
+      "extensaoida": "42,5 km",
+      "extensaovolta": "41,2 km",
+      "status": "Ativa",
+      "": "Intermunicipal"
+    }
+  ]
+}
