@@ -204,12 +204,14 @@ doc.text("Lista de Linhas", 14, 16);
           className="export-btn excel"
           separator={";"}
         >
-         
+       Exportar para Excel
         </CSVLink>
-        ) : null}''
+        ) : null}
 
 
-        <button onClick={exportarPDF} className="export-btn pdf">
+        <button onClick={exportarPDF} 
+        className="export-btn pdf" >
+          Exportar para PDF
         </button>
       </div>
 
