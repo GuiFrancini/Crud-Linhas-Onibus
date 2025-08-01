@@ -125,6 +125,7 @@ button[type="submit"]:hover {
 .excel {
   background-color: #1D2F6F;
   color: #8390FA;
+  text-decoration: none;
   }
 .excel:hover {
   background-color: #8390FA;  
